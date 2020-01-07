@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098332552050",
+    "firebase_url": "https://truck-loading-15eee.firebaseio.com",
+    "project_id": "truck-loading-15eee",
+    "storage_bucket": "truck-loading-15eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098332552050:android:9fa34e97e9a29a6a",
+        "android_client_info": {
+          "package_name": "com.example.huluage_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098332552050-sts05vtvqs7mctlb2vc03llbv3310mm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.huluage_demo",
+            "certificate_hash": "cf0854ac5b6333ad9e986f3022d38e431522bafb"
+          }
+        },
+        {
+          "client_id": "1098332552050-1aadkk26mpi84i165gk10quds9jpbslg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC918CgSt6PtLreO7WjMY5yqGB91z2amSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098332552050-1aadkk26mpi84i165gk10quds9jpbslg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
